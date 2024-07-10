@@ -1,4 +1,6 @@
 .*
 .envrc
 !.gitignore
-!.github/workflows
+!.github
+!.devcontainer/*.json
+!.devcontainer/Dockerfile*
